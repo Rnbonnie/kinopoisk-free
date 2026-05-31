@@ -2,6 +2,7 @@
 // @name         Кинопоиск free
 // @namespace    https://github.com/Rnbonnie/kinopoisk-free
 // @version      1.5.1
+// @license      MIT
 // @description  Позволяет бесплатно смотреть фильмы на кинопоиск
 // @author       Rnbonnie
 // @match        https://www.kinopoisk.ru/film/*
