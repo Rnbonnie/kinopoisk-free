@@ -4,6 +4,7 @@
 // @version      1.7.10
 // @description  Позволяет бесплатно смотреть фильмы на кинопоиск
 // @author       Rnbonnie
+// @license      MIT
 // @match        https://www.kinopoisk.ru/*
 // @match        https://hd.kinopoisk.ru/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kinopoisk.ru
